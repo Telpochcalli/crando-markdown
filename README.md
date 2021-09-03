@@ -12,7 +12,7 @@ The sandwich as we know it was popularized in England in 1762 by John Montagu, t
 - Lettuce
 - Mayo
 
-The bread is essential the other ingredients can change, the sandwiches has a lot of types.
+The bread is essential the other ingredients can change, the sandwiches has a lot of types. :D
 
 ## Preparation steps
 
