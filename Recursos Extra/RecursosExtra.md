@@ -11,3 +11,9 @@ De igual manera, **si conoces algun recurso que crees que tiene información val
 - [Tutorial: Terminal de Linux (creditos a The Cyber Mentor)](https://www.youtube.com/watch?v=r8giT8BBdw8&list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W) <br/>
 
 ### Nota: Los comandos de la terminal de linux son independientes de la distribución.
+
+<br/>
+
+# Aprende Github
+- [Tutorial de Github desde cero (Creditos a Faraday Academy](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
