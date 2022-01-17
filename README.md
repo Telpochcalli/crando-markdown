@@ -3,7 +3,7 @@ En este repositorio encontraras practicas y recursos varios para aprender lo req
 
 La idea es prepararte para involucrarte en el desarollo del robot.
 
-### Nota: Se asume que ya tienes un dominio básico de Github. De lo contrario, te invito a ver el tutorial que se encuentra en [Recursos Extra]().
+### Nota: Se asume que ya tienes un dominio básico de Github. De lo contrario, te invito a ver el tutorial que se encuentra en [Recursos Extra](https://github.com/Telpochcalli/intern-program/tree/dp/Recursos%20Extra).
 
 
 

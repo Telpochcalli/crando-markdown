@@ -1,0 +1,1 @@
+# SUBE AQUI LAS SOLUCIONES DE TUS PRACTICAS TAL COMO SE ESPECIFICA EN LAS [INTRUCCIONES](https://github.com/Telpochcalli/intern-program/tree/dp#instrucciones)

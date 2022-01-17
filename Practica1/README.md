@@ -72,7 +72,7 @@ f) Ahora que has inicializado el GPIO, es momento de programar el ciclo principa
 
 Dentro del while, programa el led tal que se prenda y se apague en internvalos de 1 segundo.
 
-# Creacion del archivo CMake:
+# Creación del archivo CMake:
 
 Un archivo de CMake es un archivo donde especificas los parametros que definen la compilación del código creación de los ejecutables con los cuales puedes debugear o programar la tarjeta.  Para esto, necesitas crear un archivo con el nombre de *CMakeLists.txt*
 
@@ -143,8 +143,11 @@ El LED interno de la Raspberry Pi Pico cierra un circuito electrico dentro de la
 La Rasberry Pico proporciona el voltaje para prender el LED (GPIO25), pero tambien se tiene una resitencia interna para proteger el LED y una referencia a tierra.
 
 Al momento de conectar el LED externo, este circuito tiene que crearse en la placa de desarollo. Por ejemplo:
+<br/>
 
+<br/>
 
+![circuito](../img/p1/CricuitoSketch%202_bb.png)
 
 
 

@@ -15,5 +15,5 @@ De igual manera, **si conoces algun recurso que crees que tiene información val
 <br/>
 
 # Aprende Github
-- [Tutorial de Github desde cero (Creditos a Faraday Academy](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Tutorial de Github desde cero (Creditos a Faraday Academy)](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
