@@ -14,6 +14,9 @@ De igual manera, **si conoces algun recurso que crees que tiene información val
 
 <br/>
 
-# Aprende Github
+# Aprende Git & Github
 - [Tutorial de Github desde cero (Creditos a Faraday Academy)](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
+# Crea una cuenta de Gitlab para Taproot:
+- [How to create GitLab Account Free (Creditos a Pula Tech)](https://www.youtube.com/watch?v=0krhaDNpwNw)
+- [Como configurar SSH Key en #Gitlab (Creditos a ProCode Tv)](https://www.youtube.com/watch?v=j-zmv-ITQb8&t=108s)
