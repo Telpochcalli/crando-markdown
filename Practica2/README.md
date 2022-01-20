@@ -121,6 +121,8 @@ Dentro del directorio ```contador``` tienes que hacer un proyecto de C para crea
 
 ![contador](../img/p3/solucion2.gif)
 
+El conteo debe hacers en intervalos de 500 o 1000 ms y tienes que usar timers para ello.
+
 ### Consejos & pistas:
   
 - Necesitas **3 GPIO's** de salida que seran conectados a 3 LEDS diferentes como en el  siguiente circuito:
