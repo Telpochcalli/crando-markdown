@@ -19,4 +19,4 @@ De igual manera, **si conoces algun recurso que crees que tiene información val
 
 # Crea una cuenta de Gitlab para Taproot:
 - [How to create GitLab Account Free (Creditos a Pula Tech)](https://www.youtube.com/watch?v=0krhaDNpwNw)
-- [Como configurar SSH Key en #Gitlab (Creditos a ProCode Tv)](https://www.youtube.com/watch?v=j-zmv-ITQb8&t=108s)
+- [Gitlab - SSH Key y primer clone (Creditos a LabProg)](https://www.youtube.com/watch?v=UxzbuhGTdu8)
